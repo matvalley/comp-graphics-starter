@@ -2,7 +2,7 @@ import './style.css'
 import p5 from 'p5'
 
 const sketch = (p) => {
-  let latestValue = 0
+  let latestValue = 0 //lslsl
 
   // WebSocket to serial bridge
   let socket
